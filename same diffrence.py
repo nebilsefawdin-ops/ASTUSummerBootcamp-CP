@@ -13,7 +13,7 @@ for i in range(t):
     operations = 0
     
     for char in s:
-        # If the character does not match the last one, we must change it
+        
         if char != last_char:
             operations += 1
             
