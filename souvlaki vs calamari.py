@@ -6,7 +6,6 @@ for i in range(t):
     n = int(n_string)
     
     line = input()
-    
     string_list = line.split()
     
     numbers = []
