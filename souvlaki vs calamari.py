@@ -19,7 +19,7 @@ for i in range(t):
     for index in range(1, n - 1, 2):
         if numbers[index] != numbers[index + 1]:
             souvlaki_wins = False
-            
+           
     if souvlaki_wins == True:
         print("YES")
     else:
