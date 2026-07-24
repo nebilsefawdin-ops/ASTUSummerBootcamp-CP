@@ -31,4 +31,4 @@ for _ in range(t):
         p.append(large)
         large -= 1
 
-    print(*p)
+    print(" ".join(p))
